@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "assessment",
+			"path": "..\\assessment"
+		},
+		{
+			"name": "css-study",
+			"path": "."
+		},
+		{
+			"name": "test",
+			"path": "..\\..\\..\\Desktop\\20201222\\test"
+		},
+		{
+			"name": "js-grammar",
+			"path": "..\\js-grammar"
+		}
+	],
+	"settings": {}
+}
